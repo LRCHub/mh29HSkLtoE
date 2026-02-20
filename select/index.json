@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "KISS ME",
+  "base_artist": "氷室京介",
+  "createdAt": "2026-02-20T07:49:04.348339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are You Gonna Kiss Me Or Not",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/01_Are_You_Gonna_Kiss_Me_Or_Not_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiss Me, Kiss Me, Kiss Me - Remix",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/02_Kiss_Me,_Kiss_Me,_Kiss_Me_-_Remix_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shut Up and Kiss Me",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/03_Shut_Up_and_Kiss_Me_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shut Up And Kiss Me (Album Version)",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/04_Shut_Up_And_Kiss_Me_(Album_Version)_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Shouldn't Kiss Me Like This",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/05_You_Shouldn't_Kiss_Me_Like_This_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Shouldn't Kiss Me Like This (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/06_You_Shouldn't_Kiss_Me_Like_This_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Shouldn't Kiss Me Like This (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/07_You_Shouldn't_Kiss_Me_Like_This_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss Me Dead",
+      "artist": "Magic Wands",
+      "has_synced": false,
+      "path": "select/08_Kiss_Me_Dead_Magic_Wands.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kiss Me Like You Mean It",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/09_Kiss_Me_Like_You_Mean_It_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kiss Me Quick",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/10_Kiss_Me_Quick_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kiss Me Sadly",
+      "artist": "Airiel",
+      "has_synced": true,
+      "path": "select/11_Kiss_Me_Sadly_Airiel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Me Deadly",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/12_Kiss_Me_Deadly_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss Me Goodbye",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/13_Kiss_Me_Goodbye_ABC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kiss Me Goodbye",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/14_Kiss_Me_Goodbye_ABC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "U Don’t Have To Kiss Me Like That",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/15_U_Don’t_Have_To_Kiss_Me_Like_That_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kiss Me Bliss Me",
+      "artist": "DJ Flavours",
+      "has_synced": true,
+      "path": "select/16_Kiss_Me_Bliss_Me_DJ_Flavours.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kiss Me Bliss Me",
+      "artist": "2 Unlimited",
+      "has_synced": true,
+      "path": "select/17_Kiss_Me_Bliss_Me_2_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shut Up Kiss Me",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/18_Shut_Up_Kiss_Me_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lend Me Your Voice",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/19_Lend_Me_Your_Voice_Belle.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/20_Look_What_You_Made_Me_Do_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "My Mother Told Me (In Old Norse)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/21_My_Mother_Told_Me_(In_Old_Norse)_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Pay Me My Money Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/22_Pay_Me_My_Money_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Beers On Me",
+      "artist": "Dierks Bentley feat. BRELAND & HARDY",
+      "has_synced": true,
+      "path": "select/23_Beers_On_Me_Dierks_Bentley_feat._BRELAND_&_HARDY.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Beers On Me",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/24_Beers_On_Me_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Break On Me",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/25_Break_On_Me_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/26_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/27_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Can't Reign On Me",
+      "artist": "Laurel Sabadosh",
+      "has_synced": true,
+      "path": "select/28_Can't_Reign_On_Me_Laurel_Sabadosh.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Chasing Me",
+      "artist": "Patrick Carpenter",
+      "has_synced": true,
+      "path": "select/29_Chasing_Me_Patrick_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Close to Me",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/30_Close_to_Me_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/31_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Cover Me In Sunshine",
+      "artist": "P!nk feat. Willow Sage Hart",
+      "has_synced": true,
+      "path": "select/32_Cover_Me_In_Sunshine_P!nk_feat._Willow_Sage_Hart.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/33_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Don't Stand So Close To Me",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/34_Don't_Stand_So_Close_To_Me_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/35_Don't_You_(Forget_About_Me)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/36_Easy_On_Me_Adele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Memories Of Blue",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_01_Memories_Of_Blue_氷室_京介.txt"
+    }
+  ]
+}
